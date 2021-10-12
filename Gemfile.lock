@@ -6,9 +6,11 @@ GEM
     hashids (1.0.5)
     ipaddr (1.2.2)
     mimemagic (0.3.3)
+    nio4r (2.5.8)
     openssl (2.1.2)
       ipaddr
-    puma (3.12.4)
+    puma (4.3.9)
+      nio4r (~> 2.0)
     rack (2.0.6)
     redcarpet (3.4.0)
     sqlite3 (1.4.1)
